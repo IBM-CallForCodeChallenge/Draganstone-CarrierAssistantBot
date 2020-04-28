@@ -1,0 +1,25 @@
+{
+  "name": "dragonstonecode",
+  "version": "1.0.0",
+  "description": "\"# Draganstone-CarrierAssistantBot\"",
+  "main": "code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IBM-CallForCodeChallenge/Draganstone-CarrierAssistantBot.git"
+  },
+  "keywords": [
+    "CFC2020"
+  ],
+  "author": "sujay teamDragonstone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IBM-CallForCodeChallenge/Draganstone-CarrierAssistantBot/issues"
+  },
+  "homepage": "https://github.com/IBM-CallForCodeChallenge/Draganstone-CarrierAssistantBot#readme",
+  "dependencies": {
+    "@cloudant/cloudant": "^4.2.4"
+  }
+}
